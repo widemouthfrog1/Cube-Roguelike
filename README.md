@@ -18,8 +18,16 @@
 * Modifiers based on shape?
 * 
 ## Enemies
-*
+* Dragon
+* 
 ## Structures
 * Chandelier
 * Bookcase
-* 
+## Materials
+* Wood
+* Stone
+* Iron
+* Bone
+* Dragon Bone
+* Dragon Scale
+* Gems (eg diamond, ruby)
